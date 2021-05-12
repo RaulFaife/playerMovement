@@ -8,5 +8,6 @@ So I ended up making it a clean two dimensional array as shown above. <br> <br> 
 Movement Up and Down <br>
 ![](https://i.imgur.com/88XvlkF.gif) <br>
 Movement Left and Right <br>
-![](https://i.imgur.com/0fVF7Ov.gif) <br>
+![](https://i.imgur.com/croPosL.gif) <br>
 Movement both directions <br>
+![](https://i.imgur.com/0fVF7Ov.gif)
