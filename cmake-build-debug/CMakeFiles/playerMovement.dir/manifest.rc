@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/rgfai/CLionProjects/playerMovement/cmake-build-debug/CMakeFiles/playerMovement.dir/embed.manifest"
